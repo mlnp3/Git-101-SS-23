@@ -1,3 +1,1 @@
-This is a sample project, to be pushed to GitHub via GIT!!!!
-
-What is your Name? 
+This is a sample project, to be pushed to GitHub via GIT!!!! THIS IS A TEST!!!! 
